@@ -1,4 +1,4 @@
-![Proyekt Banneri](musicplayer/banner.png)
+![Proyekt Banneri](musicplayer/banner1.png)
 
 # Console Music Player
 
